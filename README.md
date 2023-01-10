@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-melton-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/melton-nijanthu-britto-f](https://www.linkedin.com/in/melton-nijanthu-britto-f-362668205/)/)]([https://www.linkedin.com/in/melton-nijanthu-britto-f](https://www.linkedin.com/in/melton-nijanthu-britto-f-362668205/)/)
-[![Medium Badge](https://img.shields.io/badge/rashedul-alam-12100E?style=flat-square&logo=medium&logoColor=white&link=https://rashedul-alam.medium.com/)](https://rashedul-alam.medium.com/)
-[![Gmail Badge](https://img.shields.io/badge/-mdraanik12@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mdraanik12@gmail.com)](mailto:mdraanik12@gmail.com)
-[![Facebook Badge](https://img.shields.io/badge/rashedul.alam.anik.2-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/rashedul.alam.anik.2/)](https://www.facebook.com/rashedul.alam.anik.2/)
+
+[![Gmail Badge](https://img.shields.io/badge/-meltonmeni619@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:meltonmeni619@gmail.com)](mailto:meltonmeni619@gmail.com)
+
 
 
 ## ⚡ Technologies
