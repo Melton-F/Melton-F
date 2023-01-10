@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-melton-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/melton-nijanthu-britto-f](https://www.linkedin.com/in/melton-nijanthu-britto-f-362668205/)/)]([https://www.linkedin.com/in/melton-nijanthu-britto-f](https://www.linkedin.com/in/melton-nijanthu-britto-f-362668205/)/)
-
 [![Gmail Badge](https://img.shields.io/badge/-meltonmeni619@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:meltonmeni619@gmail.com)](mailto:meltonmeni619@gmail.com)
-
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 
 ## ⚡ Technologies
@@ -14,6 +12,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
