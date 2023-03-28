@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h4>Jr Node.js Developer</h4>
+<h2>Jr Node.js Developer</h2>
 
 
 ## 🌐 Socials:
